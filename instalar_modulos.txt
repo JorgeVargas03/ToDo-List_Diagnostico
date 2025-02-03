@@ -1,0 +1,24 @@
+Cosas que se instalan para crear entorno back
+
+npm init -y
+
+despues cambiar nombre al json de package
+
+npm i mongoose express dotenv cors morgan swagger-jsdoc swagger-ui-express
+
+npm i @hapi/boom
+
+npm i nodemon -D 
+
+y por ultimo
+
+npm install --save @babel/runtime
+
+npm install -g babel-cli
+
+npm install --save-dev @babel/plugin-transform-runtime
+
+npm install @babel/cli @babel/core @babel/node @babel/preset-env -D
+
+luego usar el code . 
+para abir el VS Code
